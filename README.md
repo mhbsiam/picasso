@@ -9,7 +9,6 @@
 | Addition | Description |
 |---|---|
 | `env/conda_env.yaml` | Updated conda environment with Python 3.10 + PyTorch ≥ 2.0 |
-| `checkpoints/ckpt.pth` | Saved model checkpoint for resuming training |
 | `picasso_v2.ipynb` | Analysis notebook applying Picasso to NTM scRNA-seq data |
 | `figures/` | Generated publication-style output figures |
 | `cell_type.png` | Picasso embedding colored by cell type (see below) |
