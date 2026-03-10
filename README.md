@@ -1,6 +1,6 @@
-# Picasso — Fork by [@siam](https://github.com/siam)
+# Picasso — Forked
 
-> This is a fork of [pachterlab/picasso](https://github.com/pachterlab/picasso). See the [original repository](https://github.com/pachterlab/picasso) for core documentation. This fork extends Picasso with a modernized environment, trained model checkpoints, and applied single-cell analysis on NTM (nontuberculous mycobacteria) lung disease data.
+> This is a fork of [pachterlab/picasso](https://github.com/pachterlab/picasso). See the [original repository](https://github.com/pachterlab/picasso) for core documentation. This fork extends Picasso with an updated environment and applies single-cell analysis on NTM (nontuberculous mycobacteria) lung disease data.
 
 ---
 
@@ -18,7 +18,7 @@
 
 ## Applied Analysis: NTM Lung Disease scRNA-seq
 
-I applied Picasso to single-cell RNA-seq data from NTM (nontuberculous mycobacteria) lung disease samples. Cells are embedded onto elephant-shaped coordinates — the signature Picasso output — and colored by cell type identity.
+I applied Picasso to single-cell RNA-seq data from NTM (nontuberculous mycobacteria) lung disease samples. Cells are embedded onto flipped elephant-shaped coordinates and colored by cell type identity.
 
 <p align="center">
   <img src="cell_type.png" width="85%">
